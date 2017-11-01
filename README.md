@@ -1,4 +1,7 @@
 # ip
+
+[![Build Status](https://travis-ci.org/go-ireul/ip.svg?branch=master)](https://travis-ci.org/go-ireul/ip)
+
 IP Utils
 
 ## Update `constants.go`
